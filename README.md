@@ -12,7 +12,7 @@ A fast, clutter-free **Any-Format-to-PDF** converter built with a clean UI.
 * **What's live now:** Instant any-format to PDF conversion with a clean, zero-nonsense interface.
 * **Coming soon:** Merge PDFs, extract pages, and delete pages.
 
-👉 **Try it out:** [https://plyx-v1.pages.dev]
+👉 **Try it out:** [plyx-v1.pages.dev](https://pages.dev)
 
 ---
 
