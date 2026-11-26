@@ -10,7 +10,7 @@ A fast, clutter-free **Any-Format-to-PDF** converter built with a clean UI.
 
 * **Why I built it:** After building two early prototypes that choked on complex files, I scrapped them and engineered **PLYX** from the ground up to handle real-world documents reliably—already used daily by students at my school.
 * **What's live now:** Instant any-format to PDF conversion with a clean, zero-nonsense interface.
-* * **Built-in ShiftSense™ Pre-Flight Check:** Automatically inspects file signatures, detects formats, previews files locally in the browser, and blocks unsupported files *before* conversion—preventing crashes and wasted time.
+* * **Built-in ShiftSense Pre-Flight Check:** Automatically inspects file signatures, detects formats, previews files locally in the browser, and blocks unsupported files *before* conversion—preventing crashes and wasted time.
 * **Coming soon:** Merge PDFs, extract pages, and delete pages.
 
 👉 **Try it out:** [https://plyx-v1.pages.dev]
